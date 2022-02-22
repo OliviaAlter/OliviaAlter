@@ -3,7 +3,7 @@
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
 [paypal-link]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Spinariaz <br> [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OliviaAlter?style=social" /> <a href="https://twitter.com/8_Meow_8_Meow_8"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8_Meow_8_Meow_8?style=social"></a>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Olivia <br> [![Paypal][paypal-badge]][paypal-link] <img alt="GitHub followers" src="https://img.shields.io/github/followers/OliviaAlter?style=social" /> <a href="https://twitter.com/8_Meow_8_Meow_8"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8_Meow_8_Meow_8?style=social"></a>
 <img align="right" width="320" src="https://cdn.discordapp.com/attachments/850424464521166867/930004798978265118/FIuZbqUUYAAu-mk.jpg" />
 
 ```C#
