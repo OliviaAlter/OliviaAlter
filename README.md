@@ -26,7 +26,7 @@ class Olivia (){
 ## **☕ Donates:**
 Helps me by making a donation, all the money raised is used for learning new languages and trying out new projects.
 
-**Paypal: Myouri@protonmail.com** <br> <br>
+**Paypal: Myouri@proton.me** <br> <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="33" width="130" /></a>
 
 **Crypto <br>
